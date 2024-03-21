@@ -1,14 +1,14 @@
 # King Tran
 
-_Web developer with more than 6 years of experience in designing and developing. Specializing in backend development, but can involve any development jobs in the project. Always accepting challenges, constantly absorbing knowledge and gaining experience to offer the right solution for problems._ <br/>
+_Web developer with more than 6 years of experience in designing and developing. Specializing in backend development, but can involve any development jobs in the project. Always accepting challenges, constantly absorbing knowledge and gaining experience to offer the right solution for problems._
 
-📪 Email : [kingtran.2112@gmail.com](mailto:kingtran.2112@gmail.com) <br/>
-🔗 LinkedIn: [https://www.linkedin.com/in/kingtran/](https://www.linkedin.com/in/kingtran/) <br/>
-🔗 GitHub : [https://github.com/kingtran2112/](https://github.com/kingtran2112/) <br/>
+📪 Email : [kingtran.2112@gmail.com](mailto:kingtran.2112@gmail.com)
+🔗 LinkedIn: [https://www.linkedin.com/in/kingtran/](https://www.linkedin.com/in/kingtran/)
+🔗 GitHub : [https://github.com/kingtran2112/](https://github.com/kingtran2112/)
 
 ## 💻 Work Experience
 
-### Advanced Software Engineer @ [Zühlke](https://www.zuehlke.com/en) _(April 2022 - Present)_ <br/>
+### Advanced Software Engineer @ [Zühlke](https://www.zuehlke.com/en) _(April 2022 - Present)_
 
 - Works as a SRE and Fullstack developer.
 - Delivers both functional and non functional requirements and features.
@@ -38,7 +38,7 @@ Tasks:
 
 <hr>
 
-### Software Engineer @ [Axon](https://www.axon.com/) _(May 2021 - Jan 2022)_ <br/>
+### Software Engineer @ [Axon](https://www.axon.com/) _(May 2021 - Jan 2022)_
 
 - Served as a fullstack developer .
 - Provided support for issues related to authentication and authorization.
@@ -59,7 +59,7 @@ Tasks:
 
 <hr>
 
-### Software Engineer @ [mgm technology partners Vietnam](https://www.mgm-tp.com/) _(Jan 2018 - Apr 2021)_ <br/>
+### Software Engineer @ [mgm technology partners Vietnam](https://www.mgm-tp.com/) _(Jan 2018 - Apr 2021)_
 
 - Served as a fullstack developer.
 - Implemented new functionality requirement.
@@ -85,16 +85,15 @@ Tasks:
 - Designed and created a new API to allow other applications to retrieve necessary information.
 - Built a new module for data migration that helps reduce significant time for migration and makes it run more efficiently.
 - Set up CI for the project.
-  <br/><br/>
 
 ## 💬 Languages
 
-**English**: Conversational<br/>
-**Vietnamese**: Native <br/>
+**English**: Conversational
+**Vietnamese**: Native
 
 ## 🎓 Education
 
-**Bachelor** in **Computer Science**<br/>
+**Bachelor** in **Computer Science**
 [The University of Da Nang - University of Science and Technology](https://dut.udn.vn/) - Da Nang, Viet Nam _(2013 - 2018)_
 
 ## 📚 Certifications:
