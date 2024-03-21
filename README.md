@@ -94,7 +94,7 @@ Tasks:
 
 ## 🎓 Education
 
-**Bachelor** in **Computer Science**<br/>
+**The Degree of Engineer** in **Information Technology**<br/>
 [The University of Da Nang - University of Science and Technology](https://dut.udn.vn/) - Da Nang, Viet Nam _(2013 - 2018)_
 
 ## 📚 Certifications:
