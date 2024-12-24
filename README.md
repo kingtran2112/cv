@@ -1,6 +1,6 @@
 # King Tran
 
-_Web developer with more than 6 years of experience in designing and developing. Specializing in backend development, but can involve any development jobs in the project. Always accepting challenges, constantly absorbing knowledge and gaining experience to offer the right solution for problems._ <br/>
+_Web developer with more than 8 years of experience in designing and developing. Specializing in backend development, but can involve any development jobs in the project. Always accepting challenges, constantly absorbing knowledge and gaining experience to offer the right solution for problems._ <br/>
 
 📪 Email : [kingtran.2112@gmail.com](mailto:kingtran.2112@gmail.com) <br/>
 🔗 LinkedIn: [https://www.linkedin.com/in/kingtran/](https://www.linkedin.com/in/kingtran/) <br/>
