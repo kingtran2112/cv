@@ -16,6 +16,16 @@ _Web developer with more than 6 years of experience in designing and developing.
 
 #### Project(s):
 
+**Digital asset financial service**: empowers institutional and private qualified investors, corporates, banks, and other financial institutions to invest in the digital asset economy with complete trust.
+
+Technologies: Node.js, React, TypeScript, NestJS, AWS.
+
+Tasks:
+
+- Designed and implemented a new feature for the application, covering both UI and backend development.
+- Contributed to architectural design to support scalability and prepare the application for rollout in new regions.
+- Refactored legacy modules, applying design patterns to enhance code robustness, readability, and maintainability.
+
 **Digital Clinical Trials**: a virtual research organization that combines powerful technology with expert DCT strategy to help you measure what truly matters. The result is clinical trials that deliver the robust therapeutic evidence you need.
 
 Technologies: Grafana, Loki, Mimir, Tempo, Kubernetes, Helm, ArgoCD, GKE.
@@ -100,3 +110,5 @@ Tasks:
 ## 📚 Certifications:
 
 **[Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)**
+
+**[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/5b475400-582f-4343-91b5-d66788519950/public_url)**
